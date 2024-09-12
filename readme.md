@@ -51,7 +51,7 @@ Using TapShare is simple. Follow these steps:
 If you have any questions or issues with TapShare, feel free to contact the support team via email at [tapsharesite@gmail.com](mailto:tapsharesite@gmail.com).
 
 ## Contributing
-
+Hello guys ! 
 We welcome contributions from the community to make TapShare even better. If you have an idea for a new feature or find a bug, please submit a pull request or create an issue on our [GitHub repository](https://github.com/maheshbasnet089/tapShare).
 
 Note: Uncomment the `baseUrl` in the `config.js` file.
